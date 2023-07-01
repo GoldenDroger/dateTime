@@ -17,7 +17,7 @@ let ticking = function(){
     minhands.textContent=minutes;
     sechands.textContent=seconds;
 
-    console.log(hrshand,minhands,sechands);
+    // console.log(hrshand,minhands,sechands);
 
 }
 
