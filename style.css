@@ -1,0 +1,17 @@
+.main{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: green;
+}
+
+.hr,.min,.sec{
+    margin: 5vmax ;
+    border: 2px solid black;
+    background-color: rgb(210, 216, 247);
+    color: rgb(35, 203, 23);
+    width: 20vb;
+    height: 40vh;
+    text-align: center;
+}
